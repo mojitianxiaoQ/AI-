@@ -4,4 +4,7 @@ py官网https://www.python.org/（下载最新版本）
 tesseract本体：https://github.com/UB-Mannheim/tesseract/wiki
 tesseract中文模块下载https://github.com/tesseract-ocr/tessdata，放到放到 Tesseract-OCR\tessdata\ 目录
 下载py后在cmd输入pip instand requests
-纯小白直接下载.exe文件，去https://api-docs.deepseek.com这个网页，自己注册账号，然后申请一个key，key不是免费的，自己花钱买，如果你有其他渠道获取key，你也可以使用你自己的
+有py的直接下载.exe文件（也需要运行库，但是不需要tesseract)，去https://api-docs.deepseek.com这个网页，自己注册账号，然后申请一个key，key不是免费的，自己花钱买，如果你有其他渠道获取key，你也可以使用你自己的
+纯小白去夸克盘下载，不需要额外的运行库下载即可使用
+链接：https://pan.quark.cn/s/0794a7819620
+提取码：DnV2
